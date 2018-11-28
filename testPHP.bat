@@ -1,0 +1,1 @@
+"D:\phpStudy\php\php-5.6.27-nts\php.exe" -f "D:\phpStudy\WWW\win_plan_task\plan_task.php"
